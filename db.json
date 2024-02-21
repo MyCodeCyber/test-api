@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "yassine",
+      "lastName": "toto"
+    },
+        {
+      "id": 2,
+      "firstName": "jawad",
+      "lastName": "toto"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
